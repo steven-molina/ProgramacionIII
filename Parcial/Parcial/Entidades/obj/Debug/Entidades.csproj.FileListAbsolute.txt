@@ -1,6 +1,0 @@
-C:\Users\LENOVO\Documents\tareas\PROGRAMACION DE COMPUTADORES lll\Parcial\Entidades\bin\Debug\Entidades.dll
-C:\Users\LENOVO\Documents\tareas\PROGRAMACION DE COMPUTADORES lll\Parcial\Entidades\bin\Debug\Entidades.pdb
-C:\Users\LENOVO\Documents\tareas\PROGRAMACION DE COMPUTADORES lll\Parcial\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
-C:\Users\LENOVO\Documents\tareas\PROGRAMACION DE COMPUTADORES lll\Parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\tareas\PROGRAMACION DE COMPUTADORES lll\Parcial\Entidades\obj\Debug\Entidades.dll
-C:\Users\LENOVO\Documents\tareas\PROGRAMACION DE COMPUTADORES lll\Parcial\Entidades\obj\Debug\Entidades.pdb
